@@ -16,8 +16,6 @@ This project simulates an end-to-end relational database system for an online bo
 ## 📂 Files Included
 - `Online Book Store.sql` — Contains all `CREATE`, `INSERT`, and `SELECT` operations with comments.
 
-## 💡 Learning Objectives
-
 - Design normalized relational tables
 - Write complex SQL queries for real-world scenarios
 - Use SQL to derive business intelligence from raw data
