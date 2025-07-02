@@ -1,4 +1,4 @@
-# 📚 Online Bookstore Database with PostgreSQL
+# 📚 Online Bookstore Database with PostgreSQL (Exploratory Data Analysis)
 
 This project simulates an end-to-end relational database system for an online bookstore. Built using PostgreSQL, it includes robust table designs, realistic sample queries, and essential data operations to analyze customer behavior, sales trends, inventory levels, and revenue generation.
 
